@@ -26,3 +26,4 @@ Topologi Bus cocok digunakan untuk jaringan sederhana dengan kebutuhan perangkat
 ## Kekurangan
 - Jika jalur utama terganggu, jaringan dapat bermasalah
 - Kurang efisien untuk jaringan besar
+![Topologi](https://github.com/lutfifahriz/cisco-topology-Bus/blob/main/TOPOLOGI%20BUS.png)
